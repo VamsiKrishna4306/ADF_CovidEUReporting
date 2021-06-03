@@ -1,0 +1,9 @@
+{
+	"name": "adf-udemy-cource-practice",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12eb3627-46b8-4536-890f-6479d3493918",
+		"tenantId": "9093f1a3-8771-4fb7-8596-d51eeef18cda"
+	}
+}
